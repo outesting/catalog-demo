@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TestComponentti
+  description: "Testing Component Things"
+
+spec:
+  type: Support System
+  lifecycle: Active
+  owner: it-operations
+  partOf: Office365 O365
+  hasPart: []
