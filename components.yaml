@@ -18,3 +18,4 @@ spec:
   - ./components/Component-MicrosoftAD.yaml
   - ./components/Component-HoxHunt.yaml
   - ./components/Component-SmsService.yaml
+  - ./components/Component-testComponent.yaml
