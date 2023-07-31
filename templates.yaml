@@ -7,5 +7,6 @@ spec:
   type: url
   targets:
     - https://github.com/outesting/template-demo/blob/main/template.yaml
+    - https://github.com/backstage/software-templates/tree/main/scaffolder-templates
     # - https://github.com/tanuuidp/template-demo/blob/main/template.yaml
     # - https://github.com/tanuuidp/env-template/blob/main/template.yaml
